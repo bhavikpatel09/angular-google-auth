@@ -1,0 +1,21 @@
+/* You can add global styles to this file, and also import other style files */
+@import url("assets/theme/vendor/css/rtl/bootstrap.css");
+@import url("assets/theme/vendor/css/rtl/appwork.css");
+@import url("assets/theme/vendor/css/rtl/theme-corporate.css");
+@import url("assets/theme/vendor/css/rtl/colors.css");
+@import url("assets/theme/vendor/css/rtl/uikit.css");
+@import url("assets/theme/css/demo.css");
+
+@import url("assets/css/site.css");
+@import url("assets/theme/vendor/fonts/fontawesome.css");
+@import url("assets/theme/vendor/fonts/ionicons.css");
+@import url("assets/theme/vendor/fonts/linearicons.css");
+@import url("assets/theme/vendor/fonts/open-iconic.css");
+@import url("assets/theme/vendor/fonts/pe-icon-7-stroke.css");
+
+@import url("assets/theme/vendor/libs/perfect-scrollbar/perfect-scrollbar.css");
+@import url("assets/theme/vendor/css/pages/authentication.css");
+@import url("assets/theme/vendor/libs/fullcalendar/fullcalendar.css");
+
+@import '~@fullcalendar/core/main.css';
+@import '~@fullcalendar/daygrid/main.css';
